@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canover&show_icons=true&hide_border=true" />
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
 
 [website]: https://www.economicros.com.br
 [facebook]: https://www.facebook.com/ca9kings
