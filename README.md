@@ -3,7 +3,7 @@
 ## I'm a Husband, SysAdmin and Developer.
 
 - 🔭 I'm CEO at [Economicros][website]
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m Javascript developer.
 - 🔭 I’ve just open sourced my first project >> [WhaTicket][whaticket]!
 
 ### Connect with me:
