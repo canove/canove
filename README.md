@@ -2,9 +2,9 @@
 
 ## I'm a Husband, SysAdmin and Developer.
 
-- 🔭 I'm CEO at [Economicros][website]
-- 🌱 I’m Javascript developer.
-- 🔭 I’ve just open sourced my first project >> [WhaTicket][whaticket]!
+- 🔭 I'm CTO at [Economicros][website]
+- 🌱 I'm Software Engineer, specialized in Javascript.
+- 😍 I love Open Source, this is my first open-source project >> [WhaTicket][whaticket]!
 
 ### Connect with me:
 
