@@ -1,8 +1,8 @@
 ### Hi there, I'm Cassio - aka canove 👋
 
-## I'm a Husband, SysAdmin and Developer.
+## I'm a technology enthusiast, SysAdmin and Developer.
 
-- 🔭 I'm CTO at [Economicros][website]
+- 🔭 I'm CEO at [Whaticket][website]
 - 🌱 I'm Software Engineer, specialized in Javascript.
 - 😍 I love Open Source, this is my first open-source project >> [WhaTicket][whaticket]!
 
@@ -37,7 +37,7 @@
 
 <img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canove&show_icons=true&hide_border=true" />
 
-[website]: https://www.economicros.com.br
+[website]: https://www.whaticket.com
 [facebook]: https://www.facebook.com/ca9kings
 [instagram]: https://www.instagram.com/canove9/
 [linkedin]: https://www.linkedin.com/in/cassio-santos-08076b180/
