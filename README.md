@@ -2,7 +2,7 @@
 
 ## I'm a technology enthusiast, SysAdmin and Developer.
 
-- 🔭 I'm CEO at [Whaticket][website]
+- 🔭 I'm CTO at [Whaticket][website]
 - 🌱 I'm Software Engineer, specialized in Javascript.
 - 😍 I love Open Source, this is my first open-source project >> [WhaTicket][whaticket]!
 
